@@ -1,7 +1,7 @@
 ## Hello! 
 
 I'm Vladimit Popov, a software developer with over a decade of experience since 2012. 
-My expertise spans across creating software for retail, online-trading and telephony domains.
+I have expirience in develop software for retailing, online-trading and analytics systems.
 
 Programming is both my profession and my passion.
 
