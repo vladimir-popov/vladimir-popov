@@ -13,6 +13,10 @@ I like to use: <br/>
 </p>
 
 -----
+In my free time I'm working on open source pet projects:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dokwork&repo=lualine-ex&show_owner=true)](https://github.com/dokwork/lualine-ex)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladimir-popov&repo=make-arduboy&show_owner=true)](https://github.com/vladimir-popov/make-arduboy)
 
 You can find more my projects here: [dokwork](https://github.com/dokwork)
 
