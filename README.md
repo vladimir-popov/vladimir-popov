@@ -1,6 +1,6 @@
 ## Hello! 
 
-I'm Vladimit Popov, a software developer with over a decade of experience since 2012. 
+I'm Vladimir Popov, a software developer with over a decade of experience since 2012. 
 I have experience developing software for retail, online trading, and analytics systems.
 
 Programming is both my profession and my passion.
