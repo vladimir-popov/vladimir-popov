@@ -17,8 +17,9 @@ In my free time I'm working on open source pet projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dokwork&repo=lualine-ex&show_owner=true)](https://github.com/dokwork/lualine-ex)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladimir-popov&repo=make-arduboy&show_owner=true)](https://github.com/vladimir-popov/make-arduboy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dokwork&repo=parcom&show_owner=true)](https://github.com/dokwork/parcom)
 
-You can find more my projects here: [dokwork](https://github.com/dokwork)
+You can find more my projects here: [![](https://www.dokwork.ru/favicon.ico)  dokwork](https://github.com/dokwork)
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/dokwork)
 
